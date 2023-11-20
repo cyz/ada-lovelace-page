@@ -1,0 +1,38 @@
+.lista {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #280042;
+  }
+  
+  .lista li {
+    float: left;
+    
+  }
+  
+  .lista li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .lista li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #f95911;
+  }
+
+  .img2 {
+    float: right;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
