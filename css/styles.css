@@ -1,11 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,500);
-/*
-Author: webthemez.com
-Author URL: http://webthemez.com
-*/
-/*************************
-*******Typography******
-**************************/
+
+
 body {
   padding-top: 100px;
   background: #fff;
@@ -34,7 +29,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #F33131;
+  color: #7a0148;
 }
 hr {
   border-top: 1px solid #e5e5e5;
@@ -58,7 +53,7 @@ text-align:center;
 }
 .section-header .section-title {
   font-size: 44px;
-  color: #F33131;
+  color: #7a0148;
   position: relative;
   padding-bottom: 20px;
   margin: 0 0 20px;  
@@ -104,10 +99,10 @@ padding:0px;
 }
 .listarrow li i{
 padding-right:15px;
-color: #F33131;
+color: #7a0148;
 }
 .heroText{
-    background: #F33131;
+    background: #7a0148;
     padding: 25px 0;
     color: #fff;
 }
@@ -313,7 +308,7 @@ border-left: 1px solid #E6E6E6;
 text-align:center;  
 }
 #hero-banner h2 b{
-color: #F33131;
+color: #7a0148;
 }
 #hero-banner p { 
   font-size: 22px; 
@@ -415,7 +410,7 @@ color:#000;
   height: 89px;
 }
 .features .media.service-box .pull-left > i{
-color: #F33131;
+color: #7a0148;
 }
 .media.service-box:hover .pull-left > i {  
 }
@@ -675,7 +670,7 @@ line-height: 22px;
 .single-testimonial h5{
 	padding: 8px 0 0px;
 	font-size: 16px;
-	color: #F33131;
+	color: #7a0148;
 }
  
 .progress {
@@ -754,7 +749,7 @@ border-right: 1px solid #E6E6E6;
   height: 140px;
   font-size: 24px;
   line-height: 140px;
-  border: 4px solid #F33131;
+  border: 4px solid #7a0148;
   border-radius: 100px;
   margin-bottom: 20px;
 }
@@ -820,10 +815,10 @@ border-right: 1px solid #E6E6E6;
 color:#fff;
 }
 #pricing ul.pricing.featured li.plan-header {
-  /* background: #F33131; */
+  /* background: #7a0148; */
 }
 #pricing ul.pricing.featured li.plan-header .plan-name {
-  color: #F33131;
+  color: #7a0148;
 }
 #contact-us {
   padding: 100px 0 10px;
