@@ -2,7 +2,7 @@
 
 👩🏻‍💻Ada Lovelace foi uma matemática e escritora britânica, reconhecida por seus avanços significativos na ciência da computação. Ela é considerada a primeira pessoa programadora de computadores do mundo.
 
-## Contribuições para a Ciência da Computação
+## Contribuições para Computação
 
 🖥️Ada Lovelace é famosa por seu trabalho no "Motor Analítico" de Charles Babbage, em que ela desenvolveu algoritmos para esse dispositivo mecânico, isso a levou a criar o primeiro algoritmo projetado para ser processado por uma máquina, o que a tornou pioneira na programação de computadores.
 
