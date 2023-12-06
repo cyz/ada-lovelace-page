@@ -1,5 +1,3 @@
-# ada-lovelace-page
-
 ## Sobre Ada Lovelace
 
 👩🏻‍💻Ada Lovelace foi uma matemática e escritora britânica, reconhecida por seus avanços significativos na ciência da computação. Ela é considerada a primeira pessoa programadora de computadores do mundo.
