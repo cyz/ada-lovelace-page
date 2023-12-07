@@ -1,3 +1,17 @@
+.img-carousel {
+  width: 40%;
+  margin-top: 20px;
+}
+
+.carousel-caption {
+  margin-left: 250px;
+  color:#000
+}
+
+.carousel-item {
+  width: auto;
+}
+
 /*begin-commonstyles library*//*!
  * froala_editor v4.0.6 (https://www.froala.com/wysiwyg-editor)
  * License https://froala.com/wysiwyg-editor/terms/
