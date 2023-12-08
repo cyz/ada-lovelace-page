@@ -25022,3 +25022,11 @@
   .u-bottom-left-radius-50 {
     --border-bottom-left-radius: 50px;
   }
+  }
+  #footer_copyright {
+    display: flex;
+    justify-content: center;
+    font-size: o.9rem;
+    padding: 1rem;
+    font-weight: 100;
+  }
